@@ -11,7 +11,7 @@ hidden: true
 
 Bonjour, 
 
-Désireuse de contribuer à l'avenir de la muséographie et en particulier de lui permettre de tirer le meilleur parti du numérique, j'ai été ravie de découvrir votre entreprise et vos créations et vous présente donc cette candidature spontanée.
+Désireuse de contribuer à l'avenir de la muséographie en lui permettant de tirer du numérique, j'ai été ravie de découvrir votre entreprise et vos créations et vous présente donc cette candidature spontanée.
 
 Chef de projet expérimentée, ma plus grande force est ma polyvalence : de l'UX design au support utilisateur, de l'administration système aux interfaces responsives, de l’autonomie à la gestion d'équipe.
 
