@@ -2,7 +2,7 @@
 layout: post
 title:  "Où j'ai enseigné les bonnes pratiques de programmation à l'université"
 author: erica
-categories: [ Relecture, Git, TDD, Software Craftmanship, Enseignement, Formalisation d'expérience pratique, Pédagogie, Gestion de groupe]
+categories: [ Relecture, Git, TDD, Python, Software Craftmanship, Enseignement, Formalisation d'expérience pratique, Pédagogie, Gestion de groupe]
 image: assets/images/valence.jpg
 year: "2016-2018"
 experience: true

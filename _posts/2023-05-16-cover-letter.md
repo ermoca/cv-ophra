@@ -9,6 +9,13 @@ featured: true
 hidden: true
 ---
 
-Ma plus grande force est ma polyvalence : de l'UX design au support utilisateur, de l'administration système au responsive UI, de l'éternelle apprenante à l'enseignante expérimentée.
+Bonjour, 
 
-Je recherche des projets engagés pour contribuer à l'amélioration de notre société.
+Je suis actuellement à la recherche d'opportunités pour contribuer à l'avenir de la muséographie et en particulier pour lui permettre de tirer parti du numérique. J'ai été ravie de découvrir votre entreprise et vos créations et vous présente donc cette candidature spontanée.
+
+Chef de projet expérimentée, ma plus grande force est ma polyvalence : de l'UX design au support utilisateur, de l'administration système aux interfaces responsives, de l'éternelle apprenante à l'enseignante expérimentée.
+
+Si mon profil vous intéresse, je serai ravie de vous rencontrer pour échanger sur vos besoins.
+
+Au plaisir, 
+Erica
