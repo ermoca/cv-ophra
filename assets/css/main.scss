@@ -1,0 +1,47 @@
+---
+# Add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax",
+    "starsnonscss"
+;
+
+.linepost {
+	img {
+		//max-height: 150px;
+	}
+}
+.after-post-cats {
+	text-align: center;
+	li {
+		margin: 5px;
+		a {
+			text-decoration: none;
+		}
+	}
+}
+
+.skills {
+	span {
+		margin: 5px;
+		font-weight: bold;
+	}
+	.skill {
+		margin-left: 10px;
+	}
+}
+
+.mainheading {
+	text-align: center;
+	h1.sitetitle {
+		font-family: initial;
+	}
+}

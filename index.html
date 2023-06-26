@@ -1,0 +1,139 @@
+---
+layout: default
+title: Home
+---
+
+{% if page.url == "/" %}
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">{{ site.name }}</h1>
+    <p class="lead">
+        {{ site.description }}
+    </p>
+
+    <a href="{{ site.baseurl }}/assets/cv-erica-marco.pdf" target="_blank">Télécharger mon CV imprimable</a>
+</div>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Travaillons ensemble !</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+{% endif %}
+
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>Mes compétences</span></h2>
+
+    </div>
+
+    {% include skill.html %}
+
+</section>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>Ce que j'ai fait jusque là</span></h2>
+
+    </div>
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+        
+        {% if post.experience == true %}
+
+           {% include postbox.html %}
+
+        {% endif %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>Comment j'ai appris et continue d'apprendre</span></h2>
+
+    </div>
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+        
+        {% if post.study == true %}
+
+           {% include postline.html %}
+
+        {% endif %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>Erica va au musée</span></h2>
+
+    </div>
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+        
+        {% if post.museum == true %}
+
+           {% include postit.html %}
+
+        {% endif %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>Hobbies</span></h2>
+
+    </div>
+
+    Lecture, Linguistique, Kung-Fu, Histoire et Histoire de l'art, Danse, Jeux de société
+
+</section>
