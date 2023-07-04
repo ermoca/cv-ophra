@@ -8,4 +8,4 @@ year: "2020-aujourd'hui"
 experience: true
 ---
 
-J'ai créé mon propre <a href="https://agatha-budget.fr/" target="_blank">logiciel de gestion de budget</a> et suis devenue la référente départementale de l'accompagnement budgétaire pour les Restos du Coeur. Découvrez le projet grâce au podcast <a href="https://podcasts.apple.com/us/podcast/8-erica-delagnier-mieux-g%C3%A9rer-son-budget-pour-r%C3%A9aliser/id1675231225?i=1000611698834" target="_blank">"Et si nos actions"</a>.
+J'ai créé mon propre <a href="https://agatha-budget.fr/" target="_blank">logiciel de gestion de budget</a> et suis devenue la référente départementale de l'accompagnement budgétaire pour les Restos du Coeur. Découvrez le projet grâce au podcast <a href="https://podcasts.apple.com/us/podcast/8-erica-delagnier-mieux-g%C3%A9rer-son-budget-pour-r%C3%A9aliser/id1675231225?i=1000611698834" target="_blank">"Et si nos actions"</a>. Retrouvez le code source du <a href="https://github.com/tresorier-by-ermoca/tresorier-back" target="_blank">Back</a> et du <a href="https://github.com/ermoca/tresorier-front" target="_blank">Front</a> sur Github.
